@@ -1,1 +1,2 @@
 localtxt main
+remotetext main
