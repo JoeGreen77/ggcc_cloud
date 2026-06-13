@@ -2,3 +2,4 @@ Neil Diamond
 Little Richie
 Lionel Richie
 Joe Local
+Joe Remote
