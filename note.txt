@@ -1,3 +1,2 @@
 note remote
 note main (to create conflict to demonstrate stash)
-Note Main (to demonstrate revert)
